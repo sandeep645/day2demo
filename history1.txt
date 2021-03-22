@@ -1,0 +1,149 @@
+    1  git version
+    2  git clone https://github.com/Eswaraa/new-pkg
+    3  git version
+    4  git
+    5  pwd
+    6  cd ..
+    7  pwd
+    8  git clone https://github.com/JayaKrishnaVamsi/demo-repo.git
+    9  ls
+   10  cd demo-repo
+   11  ls
+   12  git config --global user.name "JayaKrishnaVamsi"
+   13  git config --global user.email jayakrishnavamsi4@gmail.com
+   14  ssh-keygen -t rsa
+   15  cd ..
+   16  ls
+   17  cd .ssh
+   18  pwd
+   19  ls
+   20  cat id_rsa.pub
+   21  logout
+   22  git config --global user.name "JayaKrishnaVamsi"
+   23  git config --global user.email jayakrishnavamsi4@gmail.com
+   24  cd C:/Users
+   25  cd training
+   26  ls
+   27  cd demo-repo
+   28  ls
+   29  cd ..
+   30  rm demo-repo
+   31  rmdir demo-repo
+   32  rmdir demo-repo
+   33  cd demo-repo
+   34  rm *
+   35  cd ..
+   36  rmdir demo-repo
+   37  cd demo-repo
+   38  ls
+   39  git config --global user.name "JayaKrishnaVamsi"
+   40  git config --global user.email jayakrishnavamsi4@gmail.com
+   41  cd C:/Users/training
+   42  git clone https://github.com/JayaKrishnaVamsi/demo-repo.git
+   43  cd demo-repo/
+   44  ls
+   45  ls
+   46  logout
+   47  git clone https://github.com/rahulnagaraju/go-lang-assessments.git
+   48  git clone https://github.com/TataMukesh/Gokart.git
+   49  clear
+   50  pwd
+   51  git clone https://github.com/1MS17TE065/demo-repo.git
+   52  git config --global user.name "1MS17TE065"
+   53  git config --global user.email "s.sandeep1205@gmail.com"
+   54  ssh-keygen -t rsa
+   55  cd C:\Users\Training\.ssh
+   56  cd .ssh
+   57  cat id_rsa.pub
+   58  git clone https://github.com/1MS17TE065/demo2.git
+   59  git add day2.html
+   60  git commit -m "dgshgfsdyufgsdfyugsd"
+   61  git push
+   62  git push --set-upstream origin branch5
+   63  git log --oneline
+   64  git checkout main
+   65  git log --oneline
+   66  git checkout -b branch6 bf95427
+   67  git add day2.html
+   68  git checkout main
+   69  git add day2.html
+   70  git checkout branch6
+   71  git add day2.html
+   72  git checkout branch4
+   73  git merge branch5
+   74  git add day2.html
+   75  git commit -m "shdugdh"
+   76  git push
+   77  git checkout branch5
+   78  git add day2.html
+   79  git commit -m "jdhfdhfjk"
+   80  git push
+   81  git checkout branch4
+   82  git merge branch5
+   83  git -f merge branch5
+   84  git checkout -f branch4
+   85  git merge branch5
+   86  git commit -m "jdhfdhfjk"
+   87  git add day2.html
+   88  git commit -m "jdhfdhfjk"
+   89  git push
+   90  git merge branch5
+   91  git checkout main
+   92  git merge branch5
+   93  git merge branch5
+   94  git checkout -f main
+   95  git merge branch5
+   96  git checkout -f main
+   97  git checkout branch5
+   98  git commit -m "jdhfdhfjk"
+   99  git add day2.html
+  100  git commit -m "asaskj"
+  101  git push
+  102  git checkout branch5
+  103  git add day2.html
+  104  git commit -m "gdugdbsg"
+  105  git push
+  106  git checkout main
+  107  git add day2.html
+  108  git commit -m "gdugdbsg"
+  109  git push
+  110  git merge branch5
+  111  git checkout -f main
+  112  git merge branch5
+  113  git merge branch5
+  114  git checkout -f main
+  115  git merge branch5
+  116  git checkout -f main
+  117  git merge branch5
+  118  git checkout -f main
+  119  git status
+  120  git merge branch5
+  121  git status
+  122  git checkout -f main
+  123  git checkout branch5
+  124  git add day2.html
+  125  git commit -m "hsdgdygjh"
+  126  git push
+  127  git checkout main
+  128  git merge branch5
+  129  git push
+  130  history
+  131  git log --oneline
+  132  git checkout branch4
+  133  git merge branch2
+  134  git merge branch2
+  135  git merge origin/branch2
+  136  git merge origin/branch2
+  137  git checkout -f branch4
+  138  git merge origin/branch2
+  139  git checkout -f branch4
+  140  git merge branch2
+  141  git merge origin/branch2
+  142  git add day2.html
+  143  git commit -m "merged"
+  144  git push
+  145  history
+  146  git checkout main
+  147  git push origin --delete branch1
+  148  git branch
+  149  history
