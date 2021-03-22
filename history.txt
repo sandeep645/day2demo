@@ -1,0 +1,193 @@
+1  git version
+    2  git clone https://github.com/Eswaraa/new-pkg
+    3  git version
+    4  git
+    5  pwd
+    6  cd ..
+    7  pwd
+    8  git clone https://github.com/JayaKrishnaVamsi/demo-repo.git
+    9  ls
+   10  cd demo-repo
+   11  ls
+   12  git config --global user.name "JayaKrishnaVamsi"
+   13  git config --global user.email jayakrishnavamsi4@gmail.com
+   14  ssh-keygen -t rsa
+   15  cd ..
+   16  ls
+   17  cd .ssh
+   18  pwd
+   19  ls
+   20  cat id_rsa.pub
+   21  logout
+   22  git config --global user.name "JayaKrishnaVamsi"
+   23  git config --global user.email jayakrishnavamsi4@gmail.com
+   24  cd C:/Users
+   25  cd training
+   26  ls
+   27  cd demo-repo
+   28  ls
+   29  cd ..
+   30  rm demo-repo
+   31  rmdir demo-repo
+   32  rmdir demo-repo
+   33  cd demo-repo
+   34  rm *
+   35  cd ..
+   36  rmdir demo-repo
+   37  cd demo-repo
+   38  ls
+   39  git config --global user.name "JayaKrishnaVamsi"
+   40  git config --global user.email jayakrishnavamsi4@gmail.com
+   41  cd C:/Users/training
+   42  git clone https://github.com/JayaKrishnaVamsi/demo-repo.git
+   43  cd demo-repo/
+   44  ls
+   45  ls
+   46  logout
+   47  git clone https://github.com/rahulnagaraju/go-lang-assessments.git
+   48  git clone https://github.com/TataMukesh/Gokart.git
+   49  clear
+   50  pwd
+   51  git clone https://github.com/1MS17TE065/demo-repo.git
+   52  git config --global user.name "1MS17TE065"
+   53  git config --global user.email "s.sandeep1205@gmail.com"
+   54  ssh-keygen -t rsa
+   55  cd C:\Users\Training\.ssh
+   56  cd .ssh
+   57  cat id_rsa.pub
+   58  git clone https://github.com/1MS17TE065/demo2.git
+   59  git pull
+   60  git add day2.html
+   61  git commit -m "new local update"
+   62  git push
+   63  git checkout -b branch1
+   64  git add day2.html
+   65  git commit -m "branch edit"
+   66  git .
+   67  git push .
+   68  git checkout main
+   69  git push .
+   70  git checkout branch1
+   71  git push .
+   72  git commit -m "branch edit"
+   73  git checkout main
+   74  git branch
+   75  git checkout branch1
+   76  git add day2.html
+   77  git commit -m "new second local"
+   78  git status
+   79  git push
+   80  git push --set-upstream origin branch1
+   81  git remote main
+   82  git checkout main
+   83  git commit -m " main second update"
+   84  git push
+   85  git add day2.html
+   86  git commit -m " main second update"
+   87  git push
+   88  git merge branch1
+   89  git push
+   90  git log --oneline
+   91  git rebase -i HEAD ~2
+   92  git rebase -i HEAD~2
+   93  git log --oneline
+   94  git push origin main
+   95  git push -f origin main
+   96  history
+   97  git reset HEAD~2
+   98  git stash
+   99  git revert 75785a1
+  100  git stash pop
+  101  git push
+  102  git add day2.html
+  103  git commit -m "1111"
+  104  git push
+  105  git push -f origin main
+  106  git checkout branch1
+  107  git restore --staged day2.html
+  108  git add day2.html
+  109  git restore --staged day2.html
+  110  git stash pop
+  111  git restore index.html
+  112  git restore day2.html
+  113  git restore --staged day2.html
+  114  git restore day2.html
+  115  history
+  116  git checkout -b branch2
+  117  git add day2.html
+  118  git commit -m "new bhdsgfsd"
+  119  git push
+  120  git push --set-upstream origin branch2
+  121  git checkout main
+  122  git add day2.html
+  123  git commit -m "dsgjsgdjha"
+  124  git merge branch2
+  125  git push
+  126  git merge branch2
+  127  git checkout main
+  128  git add day2.html
+  129  git commit -m "dsgjsgdjha"
+  130  git merge branch2
+  131  git checkout branch2
+  132  git add day2.html
+  133  git commit -m "dsgjsgdjha"
+  134  git push
+  135  git checkout main
+  136  git merge branch2
+  137  git push
+  138  git push .
+  139  git checkout main
+  140  git add day2.html
+  141  git checkout -f main
+  142  git init
+  143  git add demo2
+  144  git add.
+  145  git add .
+  146  git repo
+  147  git init demo2
+  148  cd ..
+  149  cd demo2
+  150  ls
+  151  cd day2demo/demo2
+  152  git add day2.html
+  153  git add C:/Users/Training/day2demo/day2.html
+  154  git add day2.html
+  155  git commit -m "shjudh"
+  156  git push
+  157  git push demo2
+  158  git push --set-upstream demo2 master
+  159  cd ..
+  160  git fetch
+  161  git clone -b branch4 https://github.com/sandeep645/day2demo.git
+  162  git branch
+  163  git pull
+  164  git branch
+  165  git checkout branch4
+  166  git branch
+  167  git checkout branch3
+  168  git branch
+  169  git checkout main
+  170  git branch -d branch3
+  171  git push
+  172  git branch
+  173  git push origin :fix/authentication
+  174  git fetch -p
+  175  git branch
+  176  git push origin --delete fix/authentication
+  177  git push origin --delete branch3
+  178  git push origin --delete branch4
+  179  git branch
+  180  git checkout branch4
+  181  git add day2.html
+  182  git commit -m "hgdsgdhvshgds fsdfuhdh"
+  183  "git branch --unset-upstream"
+  184  git branch --unset-upstream
+  185  git commit -m "shdjdsds"
+  186  git add day2.html
+  187  git commit -m "shdjdsds"
+  188  git add day2.html
+  189  git commit -m "shdjdsds"
+  190  git push
+  191  git push --set-upstream origin branch4
+  192  git branch
+  193  history
